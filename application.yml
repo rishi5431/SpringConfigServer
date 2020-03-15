@@ -1,8 +1,8 @@
 my:
-  greetings: Hello world from Spring config server
+  greetings: Hello world from Spring config server updated
   list: One, Two, Three
   
 db:
-  connection: connection-string-here-from-spring-config-server
+  connection: connection-string-here-from-spring-config-server-updated
   host: 127.0.0.1
   port: 1200
